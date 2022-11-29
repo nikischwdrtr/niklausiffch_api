@@ -43,7 +43,10 @@
   ],
   "link": "true",
   "links": [
-    "https://doc.niklausiff.ch/"
+    {
+      "name": "doc",
+      "href": "https://doc.niklausiff.ch/"
+    }
   ],
   "txt": "Aus der Untersuchung einer Jugendsubkultur, mit der Hilfe einer künstlichen Intelligenz, welche anhand neuronaler Netzwerke lernt und versucht, eigene Bilder aus dem Gelernten zu generieren, ergab sich für mich die Fragestellung: Was ist Subjektivität und was ist Objektivität? Nehmen wir an, eine künstliche Intelligenz hat noch nie zuvor etwas gesehen, gehört oder erlebt, bis zum Zeitpunkt, an welchem sie von mensch ins Leben gerufen wird. Sie hat weder Vorurteile, Begegnungen, oder eine Meinung. Ab dem Zeitpunkt, an welchem ich sie Lernen lasse, wird sie trotzdem von mir beeinflusst, da ihr nur bestimmte Bilder gezeigt werden. Gebe ich ihr so eine eigene, subjektive Wahrnehmung mit?"
 }
