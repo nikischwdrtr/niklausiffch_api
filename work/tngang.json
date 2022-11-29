@@ -9,27 +9,27 @@
   ],
   "info": [
     {
-      "1": "untitled",
-      "2": "image of exhibition",
-      "3": "2021"
+      "t": "untitled",
+      "d": "image of exhibition",
+      "de": "2021"
     },
     {
-      "1": "untitled",
-      "2": "image of exhibition",
-      "3": "2021"
+      "t": "untitled",
+      "d": "image of exhibition",
+      "de": "2021"
     },
     {
-      "1": "//",
-      "2": "nike tn/90x180 fotodruck/video 1920x1080",
-      "3": "2021"
+      "t": "//",
+      "d": "nike tn/90x180 fotodruck/video 1920x1080",
+      "de": "2021"
     },
     {
-      "1": "ai interview",
-      "2": "video",
-      "3": "2021"
+      "t": "ai interview",
+      "d": "video",
+      "de": "2021"
     }
   ],
-  "link": "1",
+  "link": "true",
   "links": [
     "https://doc.niklausiff.ch/"
   ],
