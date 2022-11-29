@@ -2,10 +2,22 @@
   "num": "001",
   "name": "tnGAN",
   "images": [
-    "/images/tn.jpg",
-    "/images/tnGAN_rip01.jpg",
-    "/images/HAK_0293.jpg",
-    "https://player.vimeo.com/video/666300916?h=50bb41fee8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    {
+      "ifr": "0",
+      "link": "/images/tn.jpg"
+    },
+    {
+      "ifr": "0",
+      "link": "/images/tnGAN_rip01.jpg"
+    },
+    {
+      "ifr": "0",
+      "link": "/images/HAK_0293.jpg"
+    },
+    {
+      "ifr": "1",
+      "link": "https://player.vimeo.com/video/666300916?h=50bb41fee8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    }
   ],
   "info": [
     {
