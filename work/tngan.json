@@ -4,15 +4,18 @@
   "images": [
     {
       "ifr": "0",
-      "link": "/images/tn.jpg"
+      "link": "/images/tn.jpg",
+      "wide": "0"
     },
     {
       "ifr": "0",
-      "link": "/images/tnGAN_rip01.jpg"
+      "link": "/images/tnGAN_rip01.jpg",
+      "wide": "0"
     },
     {
       "ifr": "0",
-      "link": "/images/HAK_0293.jpg"
+      "link": "/images/HAK_0293.jpg",
+      "wide": "1"
     },
     {
       "ifr": "1",
