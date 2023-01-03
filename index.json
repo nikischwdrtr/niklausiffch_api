@@ -12,6 +12,9 @@
     "year": "2021",
     "link": "1",
     "linkName": "tngan",
+    "tags": [
+      "portfolio"
+    ],
     "port": {
       "name": "tnGAN",
       "images": [
