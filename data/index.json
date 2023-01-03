@@ -4,31 +4,34 @@
     "desc": "test",
     "year": "test",
     "link": "0",
-    "linkName": "0",
-    "href": "0"
+    "linkName": "0"
   },
   {
     "name": "tngan",
     "desc": "exh",
     "year": "2021",
     "link": "1",
-    "linkName": "tngan",
-    "href": "0"
+    "linkName": "tngan"
   },
   {
     "name": "work",
     "desc": "work",
     "year": "work",
     "link": "2",
-    "linkName": "testWork",
-    "href": "0"
+    "linkName": "testWork"
   },
   {
     "name": "href",
     "desc": "href",
     "year": "href",
-    "link": "0",
-    "linkName": "",
-    "href": "1"
+    "link": "3",
+    "linkName": "https://themeaningoflife.ch/"
+  },
+  {
+    "name": "mailto",
+    "desc": "mailto",
+    "year": "mailto",
+    "link": "4",
+    "linkName": "mailto:admin@niklausiff.ch"
   }
 ]
