@@ -1,4 +1,4 @@
-{
+[
   [
     {"name": "test", "nameDesc": "test"},
     {"desc": "test", "descDesc": "test"},
@@ -140,4 +140,4 @@
     {"link": "4", "linkTo": "mailto:admin@niklausiff.ch"},
     {"portfolio": "0"}
   ]
-}
+]
