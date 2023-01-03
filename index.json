@@ -1,12 +1,12 @@
 [
-  [
+  { "test": [
     {"name": "test", "nameDesc": "test"},
     {"desc": "test", "descDesc": "test"},
     {"year": "test", "yearDesc": "test"},
     {"link": "0"},
     {"portfolio": "0"}
-  ],
-  [
+  ]},
+  { "tngan": [
     {"name": "tngan", "nameDesc": "tngan"},
     {"desc": "exhibtion", "descDesc": "exh"},
     {"year": "2022", "yearDesc": "2022"},
@@ -65,8 +65,8 @@
       ],
       "txt": "Aus der Untersuchung einer Jugendsubkultur, mit der Hilfe einer künstlichen Intelligenz, welche anhand neuronaler Netzwerke lernt und versucht, eigene Bilder aus dem Gelernten zu generieren, ergab sich für mich die Fragestellung: Was ist Subjektivität und was ist Objektivität? Nehmen wir an, eine künstliche Intelligenz hat noch nie zuvor etwas gesehen, gehört oder erlebt, bis zum Zeitpunkt, an welchem sie von mensch ins Leben gerufen wird. Sie hat weder Vorurteile, Begegnungen, oder eine Meinung. Ab dem Zeitpunkt, an welchem ich sie Lernen lasse, wird sie trotzdem von mir beeinflusst, da ihr nur bestimmte Bilder gezeigt werden. Gebe ich ihr so eine eigene, subjektive Wahrnehmung mit?"
     }}
-  ],
-  [
+  ]},
+  { "work": [
     {"name": "work", "nameDesc": "work"},
     {"desc": "work", "descDesc": "work"},
     {"year": "2023", "yearDesc": "2023"},
@@ -125,19 +125,19 @@
       ],
       "txt": "Aus der Untersuchung einer Jugendsubkultur, mit der Hilfe einer künstlichen Intelligenz, welche anhand neuronaler Netzwerke lernt und versucht, eigene Bilder aus dem Gelernten zu generieren, ergab sich für mich die Fragestellung: Was ist Subjektivität und was ist Objektivität? Nehmen wir an, eine künstliche Intelligenz hat noch nie zuvor etwas gesehen, gehört oder erlebt, bis zum Zeitpunkt, an welchem sie von mensch ins Leben gerufen wird. Sie hat weder Vorurteile, Begegnungen, oder eine Meinung. Ab dem Zeitpunkt, an welchem ich sie Lernen lasse, wird sie trotzdem von mir beeinflusst, da ihr nur bestimmte Bilder gezeigt werden. Gebe ich ihr so eine eigene, subjektive Wahrnehmung mit?"
     }}
-  ],
-  [
+  ]},
+  { "newTab": [
     {"name": "https://themeaningoflife.ch/", "nameDesc": "new tab"},
     {"desc": "newTab", "descDesc": "new tab"},
     {"year": "2020", "yearDesc": "2020"},
     {"link": "3"},
     {"portfolio": "0"}
-  ],
-  [
+  ]},
+  { "mailTo": [
     {"name": "mailto:admin@niklausiff.ch", "nameDesc": "mail to"},
     {"desc": "mailTo", "descDesc": "mail tob"},
     {"year": "2022", "yearDesc": "2022"},
     {"link": "4"},
     {"portfolio": "0"}
-  ]
+  ]}
 ]
