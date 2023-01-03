@@ -1,114 +1,34 @@
 [
   {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
+    "name": "test",
+    "desc": "test",
+    "year": "test",
+    "link": "0",
+    "linkName": "0",
     "href": "0"
   },
   {
     "name": "tngan",
     "desc": "exh",
     "year": "2021",
-    "link": "/portfolio/tngan",
+    "link": "1",
+    "linkName": "tngan",
     "href": "0"
   },
   {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
+    "name": "work",
+    "desc": "work",
+    "year": "work",
+    "link": "2",
+    "linkName": "testWork",
     "href": "0"
   },
   {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
-    "href": "0"
-  },
-  {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
-    "href": "0"
-  },
-  {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
-    "href": "0"
-  },
-  {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
-    "href": "0"
-  },
-  {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
-    "href": "0"
-  },
-  {
-    "name": "tngan",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/portfolio/tngan",
-    "href": "0"
-  },
-  {
-    "name": "artifactual reality",
-    "desc": "exh",
-    "year": "2021",
-    "link": "/work/artifactualreality",
-    "href": "0"
+    "name": "href",
+    "desc": "href",
+    "year": "href",
+    "link": "0",
+    "linkName": "",
+    "href": "1"
   }
 ]
