@@ -127,17 +127,17 @@
     }}
   ],
   [
-    {"name": "newTab", "nameDesc": "new tab"},
+    {"name": "https://themeaningoflife.ch/", "nameDesc": "new tab"},
     {"desc": "newTab", "descDesc": "new tab"},
     {"year": "2020", "yearDesc": "2020"},
-    {"link": "3", "linkTo": "https://themeaningoflife.ch/"},
+    {"link": "3"},
     {"portfolio": "0"}
   ],
   [
-    {"name": "mailTo", "nameDesc": "mail to"},
+    {"name": "mailto:admin@niklausiff.ch", "nameDesc": "mail to"},
     {"desc": "mailTo", "descDesc": "mail tob"},
     {"year": "2022", "yearDesc": "2022"},
-    {"link": "4", "linkTo": "mailto:admin@niklausiff.ch"},
+    {"link": "4"},
     {"portfolio": "0"}
   ]
 ]
