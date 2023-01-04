@@ -48,6 +48,63 @@
     }}
   ],
   [
+    {"name": "9144meterswell", "nameDesc": "9144 meters well"},
+    {"desc": "exh", "descDesc": "exh video"},
+    {"year": "2022", "yearDesc": "2022"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "9144 meters well",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/9144meterswell02.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/9144meterswell05.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/meterswe.jpg"
+        },
+        {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/772184630?h=27d1a46322&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+      ],
+      "info": [
+        {
+          "t": "untitled",
+          "d": "still (group exhibition)",
+          "de": "2022"
+        },
+        {
+          "t": "untitled",
+          "d": "still",
+          "de": "2022"
+        },
+        {
+          "t": "austellungs ansicht",
+          "d": "wipkingen",
+          "de": "2022"
+        },
+        {
+          "t": "9144 meters well",
+          "d": "video algorithm 1080x1920",
+          "de": "2022"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "github",
+          "href": "https://doc.niklausiff.ch/"
+        }
+      ],
+      "txt": "«A liminal space is the time between the 'what was' and the 'next.' It is a place of transition, waiting, and not knowing. Liminal space is where all transformation takes place, if we learn to wait and let it form us.» - /r/liminalspace"
+    }}
+  ],
+  [
     {"name": "indexnotfound", "nameDesc": "index not found"},
     {"desc": "video", "descDesc": "video algorithm"},
     {"year": "2021", "yearDesc": "2021"},
@@ -61,11 +118,11 @@
         },
         {
           "ifr": "0",
-          "link": "/images/indexnotfound01.jpg"
+          "link": "/images/indexnotfound01.png"
         },
         {
           "ifr": "0",
-          "link": "/images/indexnotfound03.jpg"
+          "link": "/images/indexnotfound03.png"
         }
       ],
       "info": [
@@ -105,7 +162,7 @@
       "images": [
         {
           "ifr": "0",
-          "link": "/images/ar01.jpg"
+          "link": "/images/IMG_1036.jpg.jpg"
         },
         {
           "ifr": "0",
@@ -211,49 +268,67 @@
     }}
   ],
   [
-    {"name": "9144meterswell", "nameDesc": "9144 meters well"},
-    {"desc": "exh", "descDesc": "exh video"},
-    {"year": "2022", "yearDesc": "2022"},
+    {"name": "slgagglo", "nameDesc": "slgAgglo"},
+    {"desc": "tool", "descDesc": "?database_"},
+    {"year": "tba", "yearDesc": "wip"},
     {"link": "1"},
     {"portfolio": "1", "port": {
-      "name": "9144 meters well",
+      "name": "slgAgglo",
       "images": [
         {
           "ifr": "0",
-          "link": "/images/9144meterswell02.jpg"
+          "link": "/images/slg02.png"
         },
         {
           "ifr": "0",
-          "link": "/images/9144meterswell05.jpg"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/meterswe.jpg"
-        },
-        {
-          "ifr": "1",
-          "link": "https://player.vimeo.com/video/772184630?h=27d1a46322&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+          "link": "/images/slg01.jpg"
         }
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "still (group exhibition)",
+          "t": "slgAgglo",
+          "d": "web livestream test",
+          "de": "wip"
+        },
+        {
+          "t": "database",
+          "d": "flussdiagramm cam",
+          "de": "wip"
+        }
+      ],
+      "link": "false",
+      "links": [
+        {}
+      ],
+      "txt": "Der «Stadt-Land-Graben» wird immer mehr zu einem Thema. Fragen über die Existenz und den politischen Einfluss sind umstritten. Er beschreibt ein Dazwischen, welches für mich, da ich selbst im Agglo aufgewachsen bin, Spannung erzeugt. Für mich ist der «Stadt-Land-Graben» ganz klar das Agglo und schon lange wollte ich jenes genauer untersuchen. Die Idee wäre sehr konzeptuell und systematisch vorzugehen. Eine Datenbank zu erstellen aus Daten vom Bund/Kanton, Forschungen und eigenen Erkenntnissen. Ausserdem das Ganze mit Bild und Video Material zu bespielen. Was bedeutet selbst in die Agglos zu gehen. In einem späteren Verlauf kann aus der Datenbank ein visueller Output entstehen. Anhand von einem Algorithmus können zum Beispiel Video und Bild mit Sound kombiniert werden, welche gesteuert wird von den gesammelten Daten. Hier gibt es jedoch noch keine konkrete Idee. Viel mehr sollte der Prozess aufzeigen, wie die Arbeit in einem visuellen Kontext aussehen sollte."
+    }}
+  ],
+  [
+    {"name": "datasetter", "nameDesc": "datasetter"},
+    {"desc": "tool", "descDesc": "curation tool"},
+    {"year": "2022", "yearDesc": "2022"},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "datasetter",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/dataset.png"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/dataset2.png"
+        }
+      ],
+      "info": [
+        {
+          "t": "datasetter",
+          "d": "tool for curating datasets",
           "de": "2022"
         },
         {
-          "t": "untitled",
-          "d": "still",
-          "de": "2022"
-        },
-        {
-          "t": "austellungs ansicht",
-          "d": "wipkingen",
-          "de": "2022"
-        },
-        {
-          "t": "9144 meters well",
-          "d": "video algorithm 1080x1920",
+          "t": "datasetter",
+          "d": "terminal",
           "de": "2022"
         }
       ],
@@ -261,152 +336,297 @@
       "links": [
         {
           "name": "github",
-          "href": "https://doc.niklausiff.ch/"
+          "href": "https://github.com/nikischwdrtr/datasetter"
         }
       ],
-      "txt": "«A liminal space is the time between the 'what was' and the 'next.' It is a place of transition, waiting, and not knowing. Liminal space is where all transformation takes place, if we learn to wait and let it form us.» - /r/liminalspace"
+      "txt": ""
     }}
   ],
-
-
-
-
-
-
-
-
   [
-    {"name": "tngan", "nameDesc": "tngan"},
-    {"desc": "exhibtion", "descDesc": "exh"},
-    {"year": "2022", "yearDesc": "2022"},
-    {"link": "1"},
-    {"portfolio": "1", "port": {
-      "name": "tnGAN",
+    {"name": "safercyber", "nameDesc": "safer cyber"},
+    {"desc": "workshop", "descDesc": "workshop"},
+    {"year": "tba", "yearDesc": "tba"},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "safer cyber",
       "images": [
         {
           "ifr": "0",
-          "link": "/images/tn.jpg",
-          "wide": "0"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/tnGAN_rip01.jpg",
-          "wide": "0"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/HAK_0293.jpg",
-          "wide": "1"
-        },
-        {
-          "ifr": "1",
-          "link": "https://player.vimeo.com/video/666300916?h=50bb41fee8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+          "link": "/images/safercyber.png"
         }
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "image of exhibition",
-          "de": "2021"
-        },
-        {
-          "t": "untitled",
-          "d": "image of exhibition",
-          "de": "2021"
-        },
-        {
-          "t": "//",
-          "d": "nike tn/90x180 fotodruck/video 1920x1080",
-          "de": "2021"
-        },
-        {
-          "t": "ai interview",
-          "d": "video",
-          "de": "2021"
+          "t": "safer cyber",
+          "d": "workshop",
+          "de": "tba"
         }
       ],
-      "link": "true",
+      "link": "false",
       "links": [
-        {
-          "name": "doc",
-          "href": "https://doc.niklausiff.ch/"
-        }
+        {}
       ],
-      "txt": "Aus der Untersuchung einer Jugendsubkultur, mit der Hilfe einer künstlichen Intelligenz, welche anhand neuronaler Netzwerke lernt und versucht, eigene Bilder aus dem Gelernten zu generieren, ergab sich für mich die Fragestellung: Was ist Subjektivität und was ist Objektivität? Nehmen wir an, eine künstliche Intelligenz hat noch nie zuvor etwas gesehen, gehört oder erlebt, bis zum Zeitpunkt, an welchem sie von mensch ins Leben gerufen wird. Sie hat weder Vorurteile, Begegnungen, oder eine Meinung. Ab dem Zeitpunkt, an welchem ich sie Lernen lasse, wird sie trotzdem von mir beeinflusst, da ihr nur bestimmte Bilder gezeigt werden. Gebe ich ihr so eine eigene, subjektive Wahrnehmung mit?"
+      "txt": "how to stay safe in the web and get what should be yours. this workshop is about creating awareness in the devices we use on a daily bases. it's more about giving some reference points, then giving strict instructions, on how you stay 'safe'. staying safe in the digital space is individual, but the understanding of what is going on, is getting more and more important. this isn't a lecture or a training. bring your own questions and experiences with you and let's discuss them."
     }}
   ],
   [
-    {"name": "work", "nameDesc": "work"},
-    {"desc": "work", "descDesc": "work"},
+    {"name": "postergen", "nameDesc": "poster gen"},
+    {"desc": "tool", "descDesc": "online tool"},
+    {"year": "2020", "yearDesc": "2020"},
+    {"link": "0"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "cv", "nameDesc": "cv"},
+    {"desc": "ask", "descDesc": "pls ask"},
+    {"year": "eva", "yearDesc": "bis dato"},
+    {"link": "0"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "allinclusive", "nameDesc": "all inclusive"},
+    {"desc": "tba", "descDesc": "tba"},
     {"year": "2023", "yearDesc": "2023"},
     {"link": "2"},
     {"portfolio": "0", "port": {
-      "name": "tnGAN",
+      "name": "all inclusive (proposal)",
       "images": [
         {
-          "ifr": "0",
-          "link": "/images/tn.jpg",
-          "wide": "0"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/tnGAN_rip01.jpg",
-          "wide": "0"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/HAK_0293.jpg",
-          "wide": "1"
-        },
-        {
           "ifr": "1",
-          "link": "https://player.vimeo.com/video/666300916?h=50bb41fee8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+          "link": "https://player.vimeo.com/video/772105254?h=4c3a3a4f52&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         }
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "image of exhibition",
-          "de": "2021"
-        },
-        {
-          "t": "untitled",
-          "d": "image of exhibition",
-          "de": "2021"
-        },
-        {
-          "t": "//",
-          "d": "nike tn/90x180 fotodruck/video 1920x1080",
-          "de": "2021"
-        },
-        {
-          "t": "ai interview",
-          "d": "video",
-          "de": "2021"
+          "t": "ehemalig «dauer standort»",
+          "d": "druck auf plexiglas / bewegtes licht",
+          "de": "2023 hopefully"
         }
       ],
       "link": "true",
       "links": [
         {
-          "name": "doc",
-          "href": "https://doc.niklausiff.ch/"
+          "name": "dauer standort alt",
+          "href": "/portfolio/dauerstandort"
         }
       ],
-      "txt": "Aus der Untersuchung einer Jugendsubkultur, mit der Hilfe einer künstlichen Intelligenz, welche anhand neuronaler Netzwerke lernt und versucht, eigene Bilder aus dem Gelernten zu generieren, ergab sich für mich die Fragestellung: Was ist Subjektivität und was ist Objektivität? Nehmen wir an, eine künstliche Intelligenz hat noch nie zuvor etwas gesehen, gehört oder erlebt, bis zum Zeitpunkt, an welchem sie von mensch ins Leben gerufen wird. Sie hat weder Vorurteile, Begegnungen, oder eine Meinung. Ab dem Zeitpunkt, an welchem ich sie Lernen lasse, wird sie trotzdem von mir beeinflusst, da ihr nur bestimmte Bilder gezeigt werden. Gebe ich ihr so eine eigene, subjektive Wahrnehmung mit?"
+      "txt": ""
     }}
   ],
   [
-    {"name": "https://themeaningoflife.ch/", "nameDesc": "new tab"},
-    {"desc": "newTab", "descDesc": "new tab"},
-    {"year": "2020", "yearDesc": "2020"},
+    {"name": "error", "nameDesc": "error"},
+    {"desc": "404", "descDesc": "404"},
+    {"year": "eva", "yearDesc": "eva"},
+    {"link": "0"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "https://doc.niklausiff.ch/1", "nameDesc": "doc"},
+    {"desc": "doc", "descDesc": "documention prozess"},
+    {"year": "eva", "yearDesc": "2006 - dato"},
     {"link": "3"},
     {"portfolio": "0"}
   ],
   [
-    {"name": "mailto:admin@niklausiff.ch", "nameDesc": "mail to"},
-    {"desc": "mailTo", "descDesc": "mail tob"},
+    {"name": "https://github.com/nikischwdrtr", "nameDesc": "github"},
+    {"desc": "doc", "descDesc": "open source codes to sell"},
+    {"year": "eva", "yearDesc": "20xx"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "https://editor.p5js.org/jebemtimaiku/full/GalkK8BaW", "nameDesc": "shape generator"},
+    {"desc": "tool", "descDesc": "p5 sketch"},
     {"year": "2022", "yearDesc": "2022"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "https://niklausiff.rip/", "nameDesc": "archive"},
+    {"desc": "archive", "descDesc": "curated life"},
+    {"year": "eva", "yearDesc": "1996 - dato"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "ssdd", "nameDesc": "ssdd album cover"},
+    {"desc": "grafx", "descDesc": "dms x fxkxghxst"},
+    {"year": "2021", "yearDesc": "2021"},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "ssdd",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/ssdd.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "ssdd cover",
+          "d": "2000 x 2000",
+          "de": "2021"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "ssdd",
+          "href": "https://soundcloud.com/felix-frei-572560384/ssdd-w-fakeghxst-prod-sektion-secco"
+        }
+      ],
+      "txt": ""
+    }}
+  ],
+  [
+    {"name": "https://editor.p5js.org/jebemtimaiku/full/aFbS-vr6E", "nameDesc": "büsi"},
+    {"desc": "tool", "descDesc": "p5 sketch"},
+    {"year": "2020", "yearDesc": "2020 i guess"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "https://soundcloud.com/jebemtimaiku/1402a?si=ef3432838b9449bd86d6be0525e7c5ac&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", "nameDesc": "1402"},
+    {"desc": "music", "descDesc": "instrumental"},
+    {"year": "2018", "yearDesc": "~2018"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "https://themeaningoflife.ch/", "nameDesc": "the meaning of life"},
+    {"desc": "tool", "descDesc": "mutliplayer browser game"},
+    {"year": "2021", "yearDesc": "2021"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "surveillance", "nameDesc": "surveillance"},
+    {"desc": "grafx", "descDesc": "zine"},
+    {"year": "2020", "yearDesc": "2020"},
+    {"link": "0"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "steinbruch", "nameDesc": "steinbruch"},
+    {"desc": "music", "descDesc": "fictional band"},
+    {"year": "2020", "yearDesc": "rip due covid"},
+    {"link": "0"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "mailto:admin@niklausiff.ch", "nameDesc": "contact"},
+    {"desc": "mail", "descDesc": "admin@niklausiff.ch"},
+    {"year": "eva", "yearDesc": "foreva"},
     {"link": "4"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "bappe", "nameDesc": "bappe cover"},
+    {"desc": "grafx", "descDesc": "strohpapi tape"},
+    {"year": "2022", "yearDesc": "2022 :("},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "bappe",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/bappe.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "bappe cover",
+          "d": "2000 x 2000",
+          "de": "2022"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "tape",
+          "href": "https://soundcloud.com/felix-frei-572560384/sets/bappe"
+        }
+      ],
+      "txt": ""
+    }}
+  ],
+  [
+    {"name": "scars", "nameDesc": "scars cover"},
+    {"desc": "grafx", "descDesc": "sp80 tape"},
+    {"year": "2020", "yearDesc": "2020 :((("},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "scars",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/scars.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "scars cover",
+          "d": "2000 x 2000",
+          "de": "2020"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "tape",
+          "href": "https://soundcloud.com/user-909324456/sets/scars-ep"
+        }
+      ],
+      "txt": "produced by niklaus iff"
+    }}
+  ],
+  [
+    {"name": "playertape", "nameDesc": "player tape"},
+    {"desc": "grafx", "descDesc": "dms boys"},
+    {"year": "2023", "yearDesc": "2023"},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "player tape",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/player01.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/player02.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/player03.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "player tape cover",
+          "d": "2000 x 2000",
+          "de": "2023"
+        }
+      ],
+      "link": "false",
+      "links": [
+        {}
+      ],
+      "txt": "produced by niklaus iff"
+    }}
+  ],
+  [
+    {"name": "https://www.eff.org/cyberspace-independence", "nameDesc": "internet manifesto"},
+    {"desc": "tool", "descDesc": "cyberspace independence john barlow"},
+    {"year": "1996", "yearDesc": "1996 davos"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
+  [
+    {"name": "https://thepiratebay.org/index.html", "nameDesc": "everrythang foo freee"},
+    {"desc": "tool", "descDesc": "100%%% safeee vpn"},
+    {"year": "eva", "yearDesc": "???___"},
+    {"link": "3"},
     {"portfolio": "0"}
   ]
 ]
