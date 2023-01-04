@@ -1,11 +1,280 @@
 [
   [
-    {"name": "test", "nameDesc": "test"},
-    {"desc": "test", "descDesc": "test"},
-    {"year": "test", "yearDesc": "test"},
-    {"link": "0"},
-    {"portfolio": "0"}
+    {"name": "tngan", "nameDesc": "tnGAN"},
+    {"desc": "exh", "descDesc": "exhibition"},
+    {"year": "2021", "yearDesc": "2021"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "tnGAN",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/tn.jpg",
+          "wide": "0"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/tnGAN_rip01.jpg",
+          "wide": "0"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/HAK_0293.jpg",
+          "wide": "1"
+        }
+      ],
+      "info": [
+        {
+          "t": "untitled",
+          "d": "image of exhibition",
+          "de": "2021"
+        },
+        {
+          "t": "untitled",
+          "d": "image of exhibition",
+          "de": "2021"
+        },
+        {
+          "t": "//",
+          "d": "nike tn/90x180 fotodruck/video 1920x1080",
+          "de": "2021"
+        }
+      ],
+      "link": "false",
+      "links": [
+        {}
+      ],
+      "txt": "Aus der Untersuchung einer Jugendsubkultur, mit der Hilfe einer künstlichen Intelligenz, welche anhand neuronaler Netzwerke lernt und versucht, eigene Bilder aus dem Gelernten zu generieren, ergab sich für mich die Fragestellung: Was ist Subjektivität und was ist Objektivität? Nehmen wir an, eine künstliche Intelligenz hat noch nie zuvor etwas gesehen, gehört oder erlebt, bis zum Zeitpunkt, an welchem sie von mensch ins Leben gerufen wird. Sie hat weder Vorurteile, Begegnungen, oder eine Meinung. Ab dem Zeitpunkt, an welchem ich sie Lernen lasse, wird sie trotzdem von mir beeinflusst, da ihr nur bestimmte Bilder gezeigt werden. Gebe ich ihr so eine eigene, subjektive Wahrnehmung mit?"
+    }}
   ],
+  [
+    {"name": "indexnotfound", "nameDesc": "index not found"},
+    {"desc": "video", "descDesc": "video algorithm"},
+    {"year": "2021", "yearDesc": "2021"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "index not found",
+      "images": [
+        {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/666287068?h=669be21527&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/indexnotfound01.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/indexnotfound03.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "index not found",
+          "d": "video algorithm 1920x1080",
+          "de": "2021"
+        },
+        {
+          "t": "untitled",
+          "d": "still",
+          "de": "2021"
+        },
+        {
+          "t": "untitled",
+          "d": "still",
+          "de": "2021"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "github",
+          "href": "https://github.com/nikischwdrtr/noindex"
+        }
+      ],
+      "txt": "Meine persönliche Auseinandersetzung mit Heimat, Fehler und Veränderung. Hierzu verwende ich einen selbst geschriebenen Algorithmus, welcher Video Dateien komprimiert, verändert und auch teilweise zerstört. Für das Videomaterial habe ich selbst erstellte Aufnahmen des Rheinfalls verwendet. Nach der Ausführung des Algorithmus wurde ich stets mit der Fehlermeldung “Index Not Found” konfrontiert. Für eine Komprimierung werden alle redundanten Informationen eines Videos zusammengeführt. Lösche ich jedoch diese Information, stelle ich den Computer auf die Probe. Er muss das Video ohne diese Informationen darstellen. Ausserdem wird die Bitrate des Video drastisch reduziert. So wird dem Video der Platz genommen, um alles so darzustellen, wie das Video es ursprünglich sollte. Der Computer muss sich neu orientieren und priorisieren. Neue Kompositionen entstehen."
+    }}
+  ],
+  [
+    {"name": "artifactualreality", "nameDesc": "artifactual reality"},
+    {"desc": "exh", "descDesc": "exhibition"},
+    {"year": "2021", "yearDesc": "2021"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "artifactual reality",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/ar01.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/textured_output17.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/textured_output22.jpg"
+        },
+        {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/666509300?h=92b99cf6732&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+      ],
+      "info": [
+        {
+          "t": "untitled",
+          "d": "video game installation",
+          "de": "2021"
+        },
+        {
+          "t": "textured output 17",
+          "d": "3d scan texture",
+          "de": "2021"
+        },
+        {
+          "t": "texutred output 22",
+          "d": "3d scan texture",
+          "de": "2021"
+        },
+        {
+          "t": "game walkthrough",
+          "d": "unity",
+          "de": "2021"
+        }
+      ],
+      "link": "false",
+      "links": [{}],
+      "txt": "Ein 3D Videospiel, welches die Unterschiede zwischen der realen Welt und der virtuellen Welt untersucht, als auch spielerisch aufzeigt. Die Untersuchung findet anhand von Artefakten statt. Diese Artefakte, digitale, sowie auch analoge, ziehen sich durch die ganze Installation und beschreiben eine konstante Landschaft. Zudem werden durch einen anderswo platzierten Bewegungssensor Personen registriert, welche in die digitale Welt übersetzt werden und somit eine kontinuierliche Veränderung des virtuellen Raums erzeugen und so gleichzeitig zu neuen Artefakten werden. Die 3D Welt habe ich aufgebaut, indem ich LiDar-Scans von alten Bahngleisen in Basel erstellt habe. Diese Gleise wurden seit fast 100 Jahre nicht befahren und dienen keinem Zweck mehr. Trotzdem möchte ich sie nicht missen, an genau diesem Ort, wo sie immer noch liegen. Genauso erging es mir auch mit den digitalen Artefakten, welche bei den Scans entstanden sind. Sie erfüllen keinen weiteren Zweck, dennoch erklären sie unglaublich viel."
+    }}
+  ],
+  [
+    {"name": "dauerstandort", "nameDesc": "dauer standort"},
+    {"desc": "exh", "descDesc": "exh"},
+    {"year": "2021", "yearDesc": "2021 - tba"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "dauer standort",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/ds02.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/ds01.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/ds04.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/ds05.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/untitled.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "untitled",
+          "d": "video scan series",
+          "de": "2021"
+        },
+        {
+          "t": "untitled",
+          "d": "video scan series",
+          "de": "2021"
+        },
+        {
+          "t": "untitled",
+          "d": "video scan series",
+          "de": "2021"
+        },
+        {
+          "t": "untitled",
+          "d": "video scan series",
+          "de": "2021"
+        },
+        {
+          "t": "rendering",
+          "d": "proposal",
+          "de": "2023"
+        }
+      ],
+      "link": "false",
+      "links": [
+        {}
+      ],
+      "txt": ""
+    }}
+  ],
+  [
+    {"name": "9144meterswell", "nameDesc": "9144 meters well"},
+    {"desc": "exh", "descDesc": "exh video"},
+    {"year": "2022", "yearDesc": "2022"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "9144 meters well",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/9144meterswell02.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/9144meterswell05.jpg"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/meterswe.jpg"
+        },
+        {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/772184630?h=27d1a46322&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+      ],
+      "info": [
+        {
+          "t": "untitled",
+          "d": "still (group exhibition)",
+          "de": "2022"
+        },
+        {
+          "t": "untitled",
+          "d": "still",
+          "de": "2022"
+        },
+        {
+          "t": "austellungs ansicht",
+          "d": "wipkingen",
+          "de": "2022"
+        },
+        {
+          "t": "9144 meters well",
+          "d": "video algorithm 1080x1920",
+          "de": "2022"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "github",
+          "href": "https://doc.niklausiff.ch/"
+        }
+      ],
+      "txt": "«A liminal space is the time between the 'what was' and the 'next.' It is a place of transition, waiting, and not knowing. Liminal space is where all transformation takes place, if we learn to wait and let it form us.» - /r/liminalspace"
+    }}
+  ],
+
+
+
+
+
+
+
+
   [
     {"name": "tngan", "nameDesc": "tngan"},
     {"desc": "exhibtion", "descDesc": "exh"},
