@@ -188,6 +188,11 @@
           "de": "2021"
         },
         {
+          "t": "hc sr04",
+          "d": "distanz sensor",
+          "de": "2021"
+        },
+        {
           "t": "textured output 17",
           "d": "3d scan texture",
           "de": "2021"
