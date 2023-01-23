@@ -48,6 +48,64 @@
     }}
   ],
   [
+    {"name": "salomon", "nameDesc": "Salomon XA Pro 3D GTX"},
+    {"desc": "exh", "descDesc": "exhibition"},
+    {"year": "2023", "yearDesc": "2023"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "Salomon XA Pro 3D GTX",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/DSCF1514.jpg",
+          "wide": "1"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/DSCF1486.jpg",
+          "wide": "0"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/DSCF1507.jpg",
+          "wide": "0"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/DSCF1511.jpg",
+          "wide": "1"
+        }
+      ],
+      "info": [
+        {
+          "t": "salomon xa pro 3d gtx",
+          "d": "closeup",
+          "de": "2023"
+        },
+        {
+          "t": "salomon xa pro 3d gtx",
+          "d": "closeup",
+          "de": "2023"
+        },
+        {
+          "t": "exhibition view",
+          "d": "salomon xa pro 3d gtx",
+          "de": "2023"
+        },
+        {
+          "t": "salomon xa pro 3d gtx",
+          "d": "closeup",
+          "de": "2023"
+        }
+      ],
+      "link": "false",
+      "links": [
+        {}
+      ],
+      "txt": "Salomon XA Pro 3D GTX indigo bunting sky diver cherry tomato, ePTFE, PFC, Zement, Kies, Wasser"
+    }}
+  ],
+  [
     {"name": "9144meterswell", "nameDesc": "9144 meters well"},
     {"desc": "exh", "descDesc": "exh video"},
     {"year": "2022", "yearDesc": "2022"},
@@ -1016,5 +1074,42 @@
     {"year": "eva", "yearDesc": "???___"},
     {"link": "3"},
     {"portfolio": "0"}
-  ]
+  ],
+  [
+    {"name": "jpegvision", "nameDesc": "jpeg vision"},
+    {"desc": "grafx", "descDesc": "video jpeg filter"},
+    {"year": "2021", "yearDesc": "2021"},
+    {"link": "2"},
+    {"portfolio": "0", "port": {
+      "name": "jpeg vision",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/jpegvision.jpg"
+        }
+      ],
+      "info": [
+        {
+          "t": "sample",
+          "d": "2000 x 2000",
+          "de": "2021"
+        }
+      ],
+      "link": "true",
+      "links": [
+        {
+          "name": "github",
+          "href": "https://github.com/nikischwdrtr/jpegvision"
+        }
+      ],
+      "txt": ""
+    }}
+  ],
+  [
+    {"name": "https://github.com/nikischwdrtr/helpers", "nameDesc": "python helper scripts"},
+    {"desc": "tool", "descDesc": "open source"},
+    {"year": "eva", "yearDesc": "???___"},
+    {"link": "3"},
+    {"portfolio": "0"}
+  ],
 ]
