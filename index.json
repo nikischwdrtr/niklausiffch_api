@@ -172,7 +172,7 @@
       "images": [
         {
           "ifr": "0",
-          "link": "/images/indexnotfound01.png"
+          "link": "/images/indexnotfound02.png"
         },
         {
           "ifr": "1",
@@ -223,6 +223,10 @@
       "name": "artifactual reality",
       "images": [
         {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/666509300?h=92b99cf6732&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
           "ifr": "0",
           "link": "/images/IMG_1036.jpg"
         },
@@ -237,10 +241,6 @@
         {
           "ifr": "0",
           "link": "/images/textured_output22.jpg"
-        },
-        {
-          "ifr": "1",
-          "link": "https://player.vimeo.com/video/666509300?h=92b99cf6732&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         }
       ],
       "info": [
@@ -293,42 +293,24 @@
         },
         {
           "ifr": "0",
-          "link": "/images/ds04.jpg"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/ds05.jpg"
-        },
-        {
-          "ifr": "0",
           "link": "/images/untitled.jpg"
         }
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "video scan series",
+          "t": "7” Rhine River Schlatt Thurgau Switzerland",
+          "d": "a2 photoprint",
           "de": "2021"
         },
         {
-          "t": "untitled",
-          "d": "video scan series",
-          "de": "2021"
-        },
-        {
-          "t": "untitled",
-          "d": "video scan series",
-          "de": "2021"
-        },
-        {
-          "t": "untitled",
-          "d": "video scan series",
+          "t": "10” Maggia Tegna Ticino Switzerland",
+          "d": "a2 photoprint",
           "de": "2021"
         },
         {
           "t": "rendering",
-          "d": "proposal",
-          "de": "2023"
+          "d": "wip",
+          "de": "tba"
         }
       ],
       "link": "false",
