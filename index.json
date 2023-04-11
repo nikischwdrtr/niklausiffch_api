@@ -326,6 +326,61 @@
     }}
   ],
   [
+    {"name": "tba", "nameDesc": "tba"},
+    {"desc": "tool", "descDesc": "?database_"},
+    {"year": "tba", "yearDesc": "wip"},
+    {"link": "1"},
+    {"portfolio": "1", "port": {
+      "name": "slgAgglo",
+      "images": [
+        {
+          "ifr": "0",
+          "link": "/images/tba01.png"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/tba02.png"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/tba03.png"
+        },
+        {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/816561367?h=6d9dc2a28f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+      ],
+      "info": [
+        {
+          "t": "untitled",
+          "d": "video still 1000x1000",
+          "de": "wip"
+        },
+        {
+          "t": "untitled",
+          "d": "video still 1000x1000",
+          "de": "wip"
+        },
+        {
+          "t": "untitled",
+          "d": "video still 1000x1000",
+          "de": "wip"
+        },
+        {
+          "t": "test footage",
+          "d": "video 1000x1000",
+          "de": "wip"
+        }
+      ],
+      "link": "false",
+      "links": [
+        {}
+      ],
+      "wip": "true",
+      "txt": "video algorithm"
+    }}
+  ],
+  [
     {"name": "slgagglo", "nameDesc": "slgAgglo"},
     {"desc": "tool", "descDesc": "?database_"},
     {"year": "tba", "yearDesc": "wip"},
@@ -358,6 +413,7 @@
       "links": [
         {}
       ],
+      "wip": "true",
       "txt": "Der «Stadt-Land-Graben» wird immer mehr zu einem Thema. Fragen über die Existenz und den politischen Einfluss sind umstritten. Er beschreibt ein Dazwischen, welches für mich, da ich selbst im Agglo aufgewachsen bin, Spannung erzeugt. Für mich ist der «Stadt-Land-Graben» ganz klar das Agglo und schon lange wollte ich jenes genauer untersuchen. Die Idee wäre sehr konzeptuell und systematisch vorzugehen. Eine Datenbank zu erstellen aus Daten vom Bund/Kanton, Forschungen und eigenen Erkenntnissen. Ausserdem das Ganze mit Bild und Video Material zu bespielen. Was bedeutet selbst in die Agglos zu gehen. In einem späteren Verlauf kann aus der Datenbank ein visueller Output entstehen. Anhand von einem Algorithmus können zum Beispiel Video und Bild mit Sound kombiniert werden, welche gesteuert wird von den gesammelten Daten. Hier gibt es jedoch noch keine konkrete Idee. Viel mehr sollte der Prozess aufzeigen, wie die Arbeit in einem visuellen Kontext aussehen sollte."
     }}
   ],
