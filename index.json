@@ -21,21 +21,25 @@
           "ifr": "0",
           "link": "/images/HAK_0293.jpg",
           "wide": "1"
+        },
+        {
+          "ifr": "1",
+          "link": "https://player.vimeo.com/video/666300916?h=50bb41fee8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         }
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "image of exhibition",
-          "de": "2021"
-        },
-        {
-          "t": "untitled",
+          "t": "//",
           "d": "image of exhibition",
           "de": "2021"
         },
         {
           "t": "//",
+          "d": "image of exhibition",
+          "de": "2021"
+        },
+        {
+          "t": "exhibition view",
           "d": "nike tn/90x180 fotodruck/video 1920x1080",
           "de": "2021"
         }
@@ -78,13 +82,13 @@
       ],
       "info": [
         {
-          "t": "salomon xa pro 3d gtx",
-          "d": "closeup",
+          "t": "closeup",
+          "d": "salomon xa pro 3d gtx",
           "de": "2023"
         },
         {
-          "t": "salomon xa pro 3d gtx",
-          "d": "closeup",
+          "t": "closeup",
+          "d": "salomon xa pro 3d gtx",
           "de": "2023"
         },
         {
@@ -93,8 +97,8 @@
           "de": "2023"
         },
         {
-          "t": "salomon xa pro 3d gtx",
-          "d": "closeup",
+          "t": "closeup",
+          "d": "salomon xa pro 3d gtx",
           "de": "2023"
         }
       ],
@@ -132,17 +136,17 @@
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "still (group exhibition)",
+          "t": "//",
+          "d": "still 1080x1920",
           "de": "2022"
         },
         {
-          "t": "untitled",
-          "d": "still",
+          "t": "//",
+          "d": "still 1080x1920",
           "de": "2022"
         },
         {
-          "t": "austellungs ansicht",
+          "t": "exhibition view",
           "d": "wipkingen",
           "de": "2022"
         },
@@ -224,7 +228,7 @@
     {"desc": "exh", "descDesc": "exhibition"},
     {"year": "2021", "yearDesc": "2021"},
     {"link": "1"},
-    {"portfolio": "1", "port": {
+    {"portfolio": "0", "port": {
       "name": "artifactual reality",
       "images": [
         {
@@ -330,7 +334,7 @@
     {"desc": "tool", "descDesc": "?database_"},
     {"year": "tba", "yearDesc": "wip"},
     {"link": "1"},
-    {"portfolio": "1", "port": {
+    {"portfolio": "0", "port": {
       "name": "untitled (tba)",
       "images": [
         {
@@ -385,7 +389,7 @@
     {"desc": "tool", "descDesc": "?database_"},
     {"year": "tba", "yearDesc": "wip"},
     {"link": "1"},
-    {"portfolio": "1", "port": {
+    {"portfolio": "0", "port": {
       "name": "slgAgglo",
       "images": [
         {
