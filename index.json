@@ -119,15 +119,15 @@
       "images": [
         {
           "ifr": "0",
+          "link": "/images/meterswe.jpg"
+        },
+        {
+          "ifr": "0",
           "link": "/images/9144meterswell02.jpg"
         },
         {
           "ifr": "0",
           "link": "/images/9144meterswell05.jpg"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/meterswe.jpg"
         },
         {
           "ifr": "1",
@@ -136,18 +136,18 @@
       ],
       "info": [
         {
-          "t": "//",
-          "d": "still 1080x1920",
-          "de": "2022"
-        },
-        {
-          "t": "//",
-          "d": "still 1080x1920",
-          "de": "2022"
-        },
-        {
           "t": "exhibition view",
           "d": "wipkingen",
+          "de": "2022"
+        },
+        {
+          "t": "//",
+          "d": "still 1080x1920",
+          "de": "2022"
+        },
+        {
+          "t": "//",
+          "d": "still 1080x1920",
           "de": "2022"
         },
         {
@@ -175,12 +175,12 @@
       "name": "index not found",
       "images": [
         {
-          "ifr": "0",
-          "link": "/images/indexnotfound02.png"
-        },
-        {
           "ifr": "1",
           "link": "https://player.vimeo.com/video/666287068?h=669be21527&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "ifr": "0",
+          "link": "/images/indexnotfound02.png"
         },
         {
           "ifr": "0",
@@ -193,13 +193,13 @@
       ],
       "info": [
         {
-          "t": "untitled",
-          "d": "still",
+          "t": "index not found",
+          "d": "video algorithm 1920x1080",
           "de": "2021"
         },
         {
-          "t": "index not found",
-          "d": "video algorithm 1920x1080",
+          "t": "untitled",
+          "d": "still",
           "de": "2021"
         },
         {
@@ -294,18 +294,23 @@
       "images": [
         {
           "ifr": "0",
+          "link": "/images/untitled.jpg"
+        },
+        {
+          "ifr": "0",
           "link": "/images/ds02.jpg"
         },
         {
           "ifr": "0",
           "link": "/images/ds01.jpg"
-        },
-        {
-          "ifr": "0",
-          "link": "/images/untitled.jpg"
         }
       ],
       "info": [
+        {
+          "t": "rendering",
+          "d": "wip",
+          "de": "tba"
+        },
         {
           "t": "7” Rhine River Schlatt Thurgau Switzerland",
           "d": "a2 photoprint",
@@ -315,11 +320,6 @@
           "t": "10” Maggia Tegna Ticino Switzerland",
           "d": "a2 photoprint",
           "de": "2021"
-        },
-        {
-          "t": "rendering",
-          "d": "wip",
-          "de": "tba"
         }
       ],
       "link": "false",
