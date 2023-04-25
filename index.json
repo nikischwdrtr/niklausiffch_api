@@ -1,7 +1,7 @@
 [
   [
     {"name": "tngan", "nameDesc": "tnGAN"},
-    {"desc": "exh", "descDesc": "exhibition"},
+    {"desc": "exh", "descDesc": "exhibition installation"},
     {"year": "2021", "yearDesc": "2021"},
     {"link": "1"},
     {"portfolio": "1", "port": {
@@ -53,7 +53,7 @@
   ],
   [
     {"name": "salomon", "nameDesc": "Salomon XA Pro 3D GTX"},
-    {"desc": "exh", "descDesc": "exhibition"},
+    {"desc": "exh", "descDesc": "exhibition installation"},
     {"year": "2023", "yearDesc": "2023"},
     {"link": "1"},
     {"portfolio": "1", "port": {
@@ -111,7 +111,7 @@
   ],
   [
     {"name": "9144meterswell", "nameDesc": "9144 meters well"},
-    {"desc": "exh", "descDesc": "exh video"},
+    {"desc": "exh", "descDesc": "exhibition video installation"},
     {"year": "2022", "yearDesc": "2022"},
     {"link": "1"},
     {"portfolio": "1", "port": {
@@ -286,7 +286,7 @@
   ],
   [
     {"name": "dauerstandort", "nameDesc": "dauer standort"},
-    {"desc": "exh", "descDesc": "exh"},
+    {"desc": "exh", "descDesc": "installation wip"},
     {"year": "2021", "yearDesc": "2021 - tba"},
     {"link": "1"},
     {"portfolio": "1", "port": {
